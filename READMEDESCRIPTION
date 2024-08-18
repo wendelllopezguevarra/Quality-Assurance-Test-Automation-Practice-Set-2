@@ -1,6 +1,6 @@
 START PROJECT 2
 PART 2
-	-Automae open website, complete input registrantion for AUTOMOBILE, TRUCK, MOTORCYCLE and CAMPER, close website
+	-Automate open website, complete input registrantion for AUTOMOBILE, TRUCK, MOTORCYCLE and CAMPER, close website
 	-Assertion for validation
 	-TestNg for testing and annotations 
 
